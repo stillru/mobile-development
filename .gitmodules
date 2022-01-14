@@ -4,3 +4,6 @@
 [submodule "LabR2"]
 	path = LabR2
 	url = ../LabR2
+[submodule "LabR3"]
+	path = LabR3
+	url = ../LabR3
