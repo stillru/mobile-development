@@ -1,15 +1,15 @@
 [submodule "LabR1"]
 	path = LabR1
-	url = ../LabR1
+	url = https://bb.sjsma.dynv6.net/still/LabR1.git
 [submodule "LabR2"]
 	path = LabR2
-	url = ../LabR2
+	url = https://bb.sjsma.dynv6.net/still/LabR2.git
 [submodule "LabR3"]
 	path = LabR3
-	url = ../LabR3
+	url = https://bb.sjsma.dynv6.net/still/LabR3.git
 [submodule "LabR4"]
 	path = LabR4
-	url = ../LabR4
+	url = https://bb.sjsma.dynv6.net/still/LabR4.git
 [submodule "LabR5"]
 	path = LabR5
-	url = ../LabR5
+	url = https://bb.sjsma.dynv6.net/still/LabR5.git
